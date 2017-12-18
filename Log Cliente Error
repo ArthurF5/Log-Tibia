@@ -1,0 +1,1606 @@
+[ 17:07:53,511 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:07:56,010 ] Asset loading complete
+[ 17:07:56,321 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:08:04,324 ] qrc:///QtQuick/Controls/Private/ScrollViewHelper.qml:171:5: QML ScrollBar: Binding loop detected for property "visible"
+[ 17:09:54,160 ] Asset loading complete
+[ 17:09:56,118 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:09:59,255 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:20,679 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:22,962 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:25,527 ] BattlEye: "Initialized (v1.243)"
+[ 17:10:26,124 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 17:10:26,125 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:10:26,328 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:10:26,763 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:26,963 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 17:10:27,347 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 17:10:28,681 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:29,681 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 17:10:42,708 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,710 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,710 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,711 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,712 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,713 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,714 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,715 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,743 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:42,744 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:43,627 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:44,184 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:44,184 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,007 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,008 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,014 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,015 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,016 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,030 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,031 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,039 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,062 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,065 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,079 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,094 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,099 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,111 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,122 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,171 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,179 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,193 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,194 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,202 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,209 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,211 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,214 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,226 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,242 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,245 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,252 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,255 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,272 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,275 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,285 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,288 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,293 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,298 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,306 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,324 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,327 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,330 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,336 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,346 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,352 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,374 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,379 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,381 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:45,390 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,019 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,023 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,025 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,026 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,026 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,027 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,027 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,028 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,075 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,131 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,141 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,201 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,202 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,210 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,212 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,216 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,257 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,263 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,266 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,306 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,311 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,325 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,326 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,357 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,507 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,567 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,583 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,584 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,584 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,598 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,607 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,673 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,694 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,772 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,809 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,810 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,817 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,936 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,936 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,938 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,939 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,940 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,942 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,943 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:46,948 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,003 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,037 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,090 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,129 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,133 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,143 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,251 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,257 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,265 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,279 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,307 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,308 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,551 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,570 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,575 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,581 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,584 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,584 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,588 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:47,589 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:48,494 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:48,498 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:48,499 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:10:48,501 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 17:57:04,030 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:57:05,063 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:57:26,275 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:57:28,316 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:57:30,315 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:57:30,482 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:57:32,317 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:57:36,317 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:57:36,484 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:57:38,318 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:57:46,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:57:46,491 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:57:48,324 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:58:04,332 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:58:04,516 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:58:06,317 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:58:22,362 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:58:22,545 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:58:24,312 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:58:40,322 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:58:40,489 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:58:42,326 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:58:58,370 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:58:58,537 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:59:00,321 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:59:16,370 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:59:16,537 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:59:18,321 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:59:34,321 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:59:34,505 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:59:36,315 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 17:59:52,362 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 17:59:52,529 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 17:59:54,311 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:00:10,325 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:00:10,492 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:00:12,315 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:00:28,361 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:00:28,528 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:00:30,311 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:00:46,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:00:46,508 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:00:48,324 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:01:04,371 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:01:04,538 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:01:06,311 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:01:22,315 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:01:22,483 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:01:24,315 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:01:40,316 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:01:40,483 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:01:43,217 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:01:59,227 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:01:59,411 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:02:01,328 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:02:17,363 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:02:17,529 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:02:19,315 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:02:35,318 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:02:35,485 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:02:37,318 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:02:53,366 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:02:53,532 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:02:55,316 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:03:11,331 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:03:11,532 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:03:13,319 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:03:29,363 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:03:29,530 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:03:31,313 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:03:47,359 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:03:47,526 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:03:49,311 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:04:05,327 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:04:05,489 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:04:07,322 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:04:23,360 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:04:23,543 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:04:25,310 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:04:41,326 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:04:41,495 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:04:43,312 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:04:59,321 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:04:59,488 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:05:01,322 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:05:17,371 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:05:17,538 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:05:19,321 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:05:35,369 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:05:35,553 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:05:37,307 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:05:53,348 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:05:53,528 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:05:55,328 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:06:11,391 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:06:11,558 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:06:13,325 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:06:29,404 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:06:29,591 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:06:31,404 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:06:47,412 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:06:47,595 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:06:49,313 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:07:05,392 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:07:05,565 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:07:07,317 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:07:23,364 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:07:23,531 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:07:25,331 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:07:41,374 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:07:41,542 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:07:43,325 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:07:59,372 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:07:59,590 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:08:01,323 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:08:17,366 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:08:17,533 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:08:19,318 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:08:35,400 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:08:35,567 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:08:37,324 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:08:53,370 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:08:53,537 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:08:55,321 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:09:11,377 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:09:11,562 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:09:13,312 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:09:29,321 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:09:29,488 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:09:31,319 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:09:47,383 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:09:47,548 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:09:49,318 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:10:05,396 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:10:05,563 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:10:07,314 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:10:23,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:10:23,508 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:10:25,307 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:10:41,322 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:10:41,490 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:10:43,306 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:10:59,316 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:10:59,488 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:11:01,318 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:11:17,382 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:11:17,549 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:11:19,316 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:11:35,318 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:11:35,819 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:11:37,354 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:11:53,361 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:11:53,545 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:11:55,279 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:12:11,312 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:12:11,480 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:12:13,346 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:12:29,435 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:12:29,635 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:12:31,351 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:12:47,356 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:12:47,590 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:12:49,406 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:13:05,414 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:13:05,581 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:30:22,854 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:30:23,904 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:30:24,172 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:30:27,308 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:30:29,327 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:30:50,541 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:30:52,292 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:30:56,327 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:30:56,494 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:30:58,264 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:31:06,306 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:31:06,490 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:31:08,291 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:31:24,318 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:31:24,538 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:31:26,267 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:31:42,281 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:31:42,462 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:31:44,263 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:32:00,269 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:32:00,436 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:32:02,319 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:32:18,369 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:32:18,536 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:32:20,286 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:32:36,328 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:32:36,527 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:32:38,264 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:32:54,291 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:32:54,458 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:32:56,341 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:33:12,368 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:33:12,552 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:33:14,319 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:33:30,410 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:33:30,613 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:33:33,279 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:33:49,321 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:33:49,522 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:33:51,273 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:34:07,335 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:34:07,519 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:34:09,337 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:34:25,362 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:34:25,528 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:34:27,265 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:34:43,270 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:34:43,456 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:34:45,757 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:35:01,770 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:35:01,954 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:35:04,270 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:35:20,317 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:35:20,483 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:35:22,317 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:35:38,335 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:35:38,536 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:35:40,302 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:35:56,341 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:35:56,508 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:35:58,292 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:36:14,316 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:36:14,550 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:36:16,268 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:36:32,277 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:36:32,460 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:36:34,278 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:36:50,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:36:50,508 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:36:52,276 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:37:08,369 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:37:08,535 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:37:10,270 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:37:26,329 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:37:26,513 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:37:28,283 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:37:44,322 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:37:44,490 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:37:46,291 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:38:02,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:38:02,500 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:38:04,284 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:38:20,312 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:38:20,479 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:38:22,279 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:38:38,296 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:38:38,496 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:38:40,264 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:38:56,324 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:38:56,508 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:38:58,358 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:39:14,367 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:39:14,534 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:39:16,286 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:39:32,326 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:39:32,503 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:39:34,276 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:39:50,314 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:39:50,514 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:39:52,265 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:40:08,279 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:40:08,464 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:40:10,280 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:40:26,320 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:40:26,487 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:40:28,322 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:40:44,369 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:40:44,569 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:40:46,270 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:41:02,316 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:41:02,504 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:41:04,267 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:41:20,275 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:41:20,476 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:41:22,262 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:41:38,274 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:41:38,460 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:41:40,274 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:41:56,315 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:41:59,485 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:42:01,269 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:42:17,295 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:42:17,518 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:42:19,314 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:42:35,361 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:42:35,544 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:42:37,262 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:42:53,310 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:42:53,493 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:42:55,279 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:43:11,323 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:43:11,491 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:43:13,291 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:43:29,342 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:43:29,526 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:43:31,261 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:43:47,271 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:43:47,438 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:43:49,272 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:44:05,320 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:44:05,487 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:44:07,270 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:44:23,271 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:44:23,439 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:44:25,271 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:44:41,316 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:44:41,517 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:44:43,267 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:44:59,277 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:44:59,478 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:45:01,263 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:45:17,269 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:45:17,436 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:45:19,270 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:45:35,273 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:45:35,463 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:45:37,276 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:45:53,322 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:45:53,522 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:45:55,273 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:46:11,315 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:46:11,499 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 18:46:13,269 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 18:46:29,286 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 18:46:29,453 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 19:03:52,356 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,357 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,358 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,359 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,360 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,361 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,486 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,519 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,526 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,530 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,536 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,568 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,603 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:03:52,633 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:36:55,211 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 19:36:55,262 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 19:36:55,263 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:36:55,398 ] Disconnected from gameserver
+[ 19:36:56,740 ] BattlEye: "Initialized (v1.243)"
+[ 19:36:56,955 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 19:36:56,955 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 19:36:57,929 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:37:17,194 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:37:20,960 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:37:22,563 ] BattlEye: "Initialized (v1.243)"
+[ 19:37:22,789 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 19:37:22,789 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 19:37:22,960 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 19:37:23,606 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 19:37:23,744 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:37:23,811 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 19:37:26,712 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 19:38:31,456 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,457 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,458 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,460 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,461 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,463 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,555 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,557 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,559 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,561 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,563 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,565 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,606 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:38:31,608 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,880 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,881 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,882 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,883 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,884 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,885 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,971 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,973 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,974 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,976 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,977 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:16,979 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:17,020 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:17,022 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,026 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,344 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,357 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,369 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,383 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,399 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,410 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,542 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,546 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,555 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,559 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,563 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,571 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,742 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,747 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,752 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,756 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,762 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,767 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,842 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,847 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,851 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,856 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,875 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:19,882 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:21,631 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:21,714 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:21,771 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:21,849 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:22,198 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:22,264 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:22,274 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:22,319 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:23,214 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:23,748 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:23,799 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:23,882 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,215 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,247 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,303 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,383 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,832 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,900 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,938 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:24,965 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:25,518 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:25,565 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:25,618 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:25,651 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,086 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,114 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,124 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,173 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,534 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,567 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,604 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,637 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,953 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:26,986 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:27,039 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:27,081 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:27,954 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:27,963 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:28,004 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:28,045 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:28,891 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:28,917 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:28,928 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:29,004 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:29,554 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:29,602 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:29,637 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:29,647 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,221 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,271 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,326 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,336 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,923 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:30,985 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:31,002 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:31,570 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:31,656 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:31,719 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:31,832 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,253 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,322 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,374 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,424 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,788 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,860 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:32,907 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:33,319 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:33,357 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:33,426 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:33,805 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:33,892 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:34,509 ] QQmlExpression: Attempted to evaluate an expression in an invalid context
+[ 19:46:37,938 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,421 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,456 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,466 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,541 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,874 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,924 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:38,955 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:39,393 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:39,405 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:39,444 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:39,477 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:39,956 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:40,023 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:40,821 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:40,832 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:41,340 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:41,375 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:41,387 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:41,429 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,156 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,191 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,231 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,241 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,673 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,709 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,762 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:42,771 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,225 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,261 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,271 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,314 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,324 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,711 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,761 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:43,878 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:44,377 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:44,428 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:44,526 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:44,537 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:44,975 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,012 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,041 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,081 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,609 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,619 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,668 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:45,679 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,059 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,095 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,152 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,162 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,496 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,546 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,556 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,841 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,874 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,917 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:46,964 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:47,826 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:47,880 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:47,932 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:47,942 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:47,983 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,381 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,393 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,744 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,780 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,828 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:48,868 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:49,294 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:49,348 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,328 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,362 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,373 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,412 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,896 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,978 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 19:46:50,991 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 20:10:31,222 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:10:32,223 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:10:32,498 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:10:35,176 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:10:37,211 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:10:40,378 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:10:42,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:10:46,184 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:10:46,367 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:10:48,184 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:10:56,220 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:10:56,387 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:10:58,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:11:14,218 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:11:14,397 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:11:16,168 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:11:32,210 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:11:32,380 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:11:34,161 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:11:50,161 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:11:50,345 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:11:52,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:12:08,175 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:12:08,359 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:12:10,161 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:12:26,161 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:12:26,345 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:12:28,176 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:12:44,219 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:12:44,387 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:12:46,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:13:02,213 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:13:02,413 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:13:04,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:13:20,210 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:13:23,389 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:13:25,199 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:13:41,224 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:13:41,409 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:13:43,160 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:13:59,166 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:13:59,349 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:14:01,166 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:14:17,477 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:14:17,756 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:14:20,190 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:14:36,216 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:14:36,399 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:14:38,169 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:14:54,168 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:14:54,345 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:14:56,162 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:15:12,173 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:15:12,340 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:15:14,176 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:15:30,219 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:15:30,419 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:15:32,169 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:15:48,174 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:15:48,358 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:15:50,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:16:06,218 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:16:06,401 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:16:08,168 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:16:24,213 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:16:24,412 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:16:26,315 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:16:42,320 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:16:42,511 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:16:44,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:17:00,180 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:17:00,354 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:17:02,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:17:18,168 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:17:18,352 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:17:20,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:17:36,216 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:17:36,398 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:17:38,167 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:17:54,174 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:17:54,374 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:17:56,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:18:12,217 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:18:12,385 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:18:14,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:18:30,175 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:18:30,340 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:18:32,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:18:48,214 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:18:48,397 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:18:50,164 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:19:06,173 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:19:06,374 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:19:08,176 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:19:24,211 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:19:24,377 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:19:26,161 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:19:42,166 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:19:42,334 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:19:44,168 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:20:00,172 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:20:00,356 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:20:02,164 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:20:18,173 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:20:18,356 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:20:20,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:20:36,213 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:20:36,380 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:20:38,164 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:20:54,173 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:20:54,341 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:20:56,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:21:12,217 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:21:12,385 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:21:14,167 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:21:30,176 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:21:30,375 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:21:32,177 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:21:48,198 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:21:48,375 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:21:50,148 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:22:06,153 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:22:06,342 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:22:08,204 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:22:24,240 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:22:24,412 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:22:26,190 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:22:42,193 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:22:42,411 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:22:44,227 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:23:00,233 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:23:00,416 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:23:02,183 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:23:18,224 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:23:18,391 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:23:20,174 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:23:36,236 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:23:36,437 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:23:39,171 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:23:55,245 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:23:55,429 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:23:57,165 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:24:13,212 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:24:13,379 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:24:15,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:24:31,170 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:24:31,338 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:24:33,170 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:24:49,216 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:24:49,399 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:24:51,165 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:25:07,213 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:25:07,413 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:25:09,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:25:25,167 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:25:25,350 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:25:27,166 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:25:43,174 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:25:43,341 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:25:45,175 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:26:01,195 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:26:01,372 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:26:03,179 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:26:19,182 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:26:19,383 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:26:21,183 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:26:37,255 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:26:37,473 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:26:39,209 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:26:55,213 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:26:55,380 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:03,480 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:44:04,483 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:44:04,714 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:07,131 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:44:09,131 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:44:09,314 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:11,166 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:44:15,169 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:44:15,350 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:17,137 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:44:25,161 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:44:25,340 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:27,129 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:44:43,149 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:44:43,316 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:44:45,133 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:45:01,149 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:45:01,349 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:45:03,117 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:45:19,137 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:45:19,370 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:45:21,171 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:45:37,244 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:45:37,429 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:45:39,131 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:45:55,166 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:45:55,368 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:45:57,201 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:46:13,226 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:46:13,395 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:46:15,144 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:46:31,165 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:46:31,348 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:46:33,116 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:46:49,121 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:46:49,305 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:46:51,173 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:47:07,210 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:47:07,377 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:47:09,161 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:47:25,168 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:47:25,351 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:47:27,190 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:47:43,223 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:47:43,424 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:47:45,206 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:48:01,243 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:48:01,410 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:48:03,129 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:48:19,145 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:48:19,316 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:48:21,151 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:48:37,189 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:48:37,389 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:48:39,156 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:48:55,162 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:48:55,396 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:48:57,130 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:49:13,171 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:49:13,372 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:49:15,186 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:49:31,222 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:49:31,389 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:49:33,156 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:49:49,205 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:49:49,406 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:49:51,139 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:50:07,183 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:50:07,387 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:50:09,184 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:50:25,318 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:50:25,504 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:50:27,152 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:50:43,170 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:50:43,370 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:50:45,153 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:51:01,193 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:51:01,393 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:51:03,143 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:51:19,184 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:51:19,402 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:51:21,169 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:51:31,976 ] "handleCreatureMarksMessage: no creature with id 1073965752 found"
+[ 20:51:31,976 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073965752 found"
+[ 20:51:37,210 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:51:37,376 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:51:39,112 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:51:41,381 ] "handleCreatureMarksMessage: no creature with id 1073966610 found"
+[ 20:51:41,382 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073966610 found"
+[ 20:51:55,167 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:51:55,334 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:51:57,149 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:52:13,187 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:52:13,371 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:52:15,204 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:52:31,243 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:52:31,460 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:52:33,142 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:52:49,214 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:52:49,467 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:52:51,213 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:53:07,215 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:53:07,383 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:53:09,133 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:53:25,203 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:53:25,404 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:53:27,172 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:53:43,209 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:53:43,462 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:53:45,192 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:54:01,246 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:54:01,421 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:54:03,163 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:54:19,183 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:54:19,349 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:54:21,133 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:54:37,206 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:54:37,373 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:54:39,144 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:54:55,188 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:54:55,405 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:54:57,193 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:55:13,246 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:55:13,446 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:55:15,130 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:55:31,141 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:55:31,324 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:55:33,126 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:55:49,183 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:55:49,351 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:55:51,123 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:56:07,138 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:56:07,338 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:56:09,155 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:56:25,182 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:56:25,384 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:56:27,149 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:56:43,173 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:56:43,343 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:56:45,127 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:57:01,188 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:57:01,356 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:57:03,125 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:57:19,182 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:57:19,397 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:57:21,115 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:57:37,133 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:57:37,334 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:57:39,135 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:57:55,162 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:57:55,344 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:57:57,113 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:58:13,117 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:58:13,301 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:58:15,119 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:58:31,129 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:58:31,312 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:58:33,114 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:58:49,170 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:58:49,337 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:58:51,153 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:59:07,207 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:59:07,407 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:59:09,157 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:59:25,183 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:59:25,367 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:59:27,151 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 20:59:43,212 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 20:59:43,430 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 20:59:45,130 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:00:01,134 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:00:01,302 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:00:03,185 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:00:19,244 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:00:19,413 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:00:21,128 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:00:37,136 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:00:37,315 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:00:39,239 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:00:55,291 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:00:55,528 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:00:57,112 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:01:13,122 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:01:13,290 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:01:15,139 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:01:31,181 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:01:31,347 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:01:33,130 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:01:49,149 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:01:50,886 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:07,017 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:17:08,024 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:17:08,260 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:14,115 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:17:16,116 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:17:16,333 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:19,112 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:17:23,136 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:17:23,320 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:25,124 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:17:33,180 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:17:33,348 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:35,123 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:17:51,164 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:17:51,329 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:17:53,125 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:18:09,164 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:18:09,354 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:18:11,117 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:18:27,128 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:18:27,312 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:18:29,123 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:18:45,137 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:18:45,304 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:18:47,213 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:19:03,260 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:19:03,427 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:19:05,110 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:19:21,118 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:19:21,302 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:19:23,114 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:19:39,163 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:19:39,349 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:19:41,124 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:19:57,179 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:19:58,683 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:20:01,131 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:20:17,171 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:20:17,355 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:20:19,111 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:20:35,124 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:20:35,308 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:20:37,111 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:20:53,112 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:20:53,278 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:20:55,137 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:21:11,162 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:21:11,328 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:21:13,114 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:21:29,116 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:21:29,318 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:21:31,123 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:21:47,160 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:21:47,352 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:21:49,120 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:22:05,123 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:22:05,291 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:22:07,114 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:22:23,135 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:22:23,319 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:22:25,122 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:22:41,126 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:22:41,292 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:22:43,111 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:22:59,122 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:22:59,305 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:23:01,113 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:23:17,120 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:23:20,301 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:23:22,132 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:23:38,171 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:23:38,355 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:23:40,125 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:23:56,139 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:23:56,313 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:23:58,067 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:24:14,131 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:24:14,366 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:24:16,124 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:24:32,164 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:24:32,348 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 21:24:35,067 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:24:38,170 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:24:38,171 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:24:38,365 ] Disconnected from gameserver
+[ 21:26:50,511 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:26:58,279 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:26:59,998 ] BattlEye: "Initialized (v1.243)"
+[ 21:27:00,306 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 21:27:00,306 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:27:00,544 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 21:27:01,143 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 21:27:01,210 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 21:27:01,360 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 21:27:04,179 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 21:37:11,064 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:37:11,114 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 21:37:11,115 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 21:37:11,256 ] Disconnected from gameserver
+[ 23:15:26,632 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:29,323 ] Asset loading complete
+[ 23:15:29,823 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:45,009 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:53,541 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:57,210 ] BattlEye: "Initialized (v1.243)"
+[ 23:15:57,928 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 23:15:57,928 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:15:58,157 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:15:58,491 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 23:15:58,805 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 23:15:59,053 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 23:16:01,388 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 23:30:32,018 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:30:33,021 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:30:33,272 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:30:37,615 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:30:39,617 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:30:39,786 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:30:41,974 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:30:46,020 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:30:46,192 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:30:47,975 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:30:56,015 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:30:56,183 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:30:57,966 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:31:13,971 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:31:14,140 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:31:15,972 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:31:32,022 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:31:32,189 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:31:33,972 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:31:49,974 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:31:50,175 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:31:51,960 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:32:07,973 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:32:08,140 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:32:09,966 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:32:26,014 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:32:26,182 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:32:27,934 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:32:43,962 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:32:44,195 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:32:45,970 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:33:01,984 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:33:02,188 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:33:03,973 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:33:20,016 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:33:20,183 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:33:21,967 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:33:37,966 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:33:38,133 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:33:39,966 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:33:56,017 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:33:56,183 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:33:57,986 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:34:14,014 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:34:14,199 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:34:15,967 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:34:32,008 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:34:32,196 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:34:33,974 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:34:49,976 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:34:50,268 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:34:52,981 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:35:09,005 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:35:09,172 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:35:10,959 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:35:26,962 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:35:27,149 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:35:28,975 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:35:45,022 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:35:45,189 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:35:46,975 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:36:03,015 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:36:03,182 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:36:04,968 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:36:20,974 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:36:21,141 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:36:22,963 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:36:38,967 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:36:39,155 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:36:40,964 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:36:57,012 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:36:57,180 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:36:58,975 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:37:14,976 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:37:15,143 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:37:16,962 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:37:32,963 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:37:33,130 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:37:34,916 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:37:50,964 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:37:51,147 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:37:52,968 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:38:09,012 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:38:09,179 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:38:10,915 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:38:26,924 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:38:27,091 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:38:28,960 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:38:44,961 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:38:45,211 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:38:46,964 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:39:02,972 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:39:03,155 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:39:05,074 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:39:21,110 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:39:21,277 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:39:22,914 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:39:38,920 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:39:39,104 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:39:40,977 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:39:57,021 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:39:57,190 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:39:58,969 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:40:14,973 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:40:15,157 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:40:16,960 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:40:32,970 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:40:33,137 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:40:34,960 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:40:50,965 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:40:51,138 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:40:53,024 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:41:09,074 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:41:09,240 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:41:10,959 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:41:26,970 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:41:27,156 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:41:28,913 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:41:44,916 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:41:45,086 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:41:46,917 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:42:02,925 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:42:03,160 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:42:04,916 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:42:20,923 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:42:21,089 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:42:22,925 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:42:38,966 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:42:39,150 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:42:40,969 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:42:57,012 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:42:57,188 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:42:58,913 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:43:14,924 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:43:15,091 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:43:16,910 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:43:32,913 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:43:33,113 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:43:34,914 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:43:50,975 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:43:51,159 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:43:52,937 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:44:08,975 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:44:09,143 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:44:10,912 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:44:26,925 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:44:27,091 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:44:28,925 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:44:44,971 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:44:45,138 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:44:46,971 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:45:03,021 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:45:03,288 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:45:04,972 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:45:21,019 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:45:21,209 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:45:22,970 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:45:39,017 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:45:39,196 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:45:40,965 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:45:57,056 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:45:57,226 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:45:58,912 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:46:14,921 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:46:15,155 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:46:16,973 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:46:33,012 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:46:33,178 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:46:34,915 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:46:50,924 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:46:51,091 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:46:52,959 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:47:09,008 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:47:09,191 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:47:10,961 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:47:26,961 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:47:27,161 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:47:28,915 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:47:44,916 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:47:45,100 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:47:46,968 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 23:48:03,010 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 23:48:03,177 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 23:51:17,621 ] "handleCreatureMarksMessage: no creature with id 1073999643 found"
+[ 23:51:17,621 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073999643 found"
+[ 00:44:47,882 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:44:47,948 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:44:47,988 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:44:48,310 ] Disconnected from gameserver
+[ 00:44:51,858 ] BattlEye: "Initialized (v1.243)"
+[ 00:44:52,362 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx Eldera" )
+[ 00:44:52,363 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Eldera"
+[ 00:44:52,617 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Eldera"
+[ 00:44:53,220 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:44:53,287 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Eldera"
+[ 00:44:53,602 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Eldera" established
+[ 00:44:56,136 ] BattlEye: "Server computed GUID: a5e089dd07cb38c073f506abbcbd64e9"
+[ 00:44:56,503 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Eldera"  was disconnected
+[ 00:44:56,503 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Eldera"  was disconnected
+[ 00:44:56,505 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:44:56,796 ] Disconnected from gameserver
+[ 00:44:58,857 ] BattlEye: "Initialized (v1.243)"
+[ 00:44:59,374 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-br.ciproxy.com:7171" )  requested (Charakter "Death Onyx Lutabra" )
+[ 00:44:59,374 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Lutabra"
+[ 00:44:59,603 ] Connected to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Lutabra"
+[ 00:45:00,188 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:00,200 ] Request connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Lutabra"
+[ 00:45:00,359 ] Backup connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Lutabra" established
+[ 00:45:03,125 ] BattlEye: "Server computed GUID: fe617537d4c76b5956ac6a4cc784d320"
+[ 00:45:03,808 ] Connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Lutabra"  was disconnected
+[ 00:45:03,809 ] Connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Lutabra"  was disconnected
+[ 00:45:03,810 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:04,099 ] Disconnected from gameserver
+[ 00:45:06,407 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:06,885 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx fortera" )
+[ 00:45:06,886 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Fortera"
+[ 00:45:07,059 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Fortera"
+[ 00:45:07,719 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:07,782 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Fortera"
+[ 00:45:07,989 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Fortera" established
+[ 00:45:11,353 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Fortera"  was disconnected
+[ 00:45:11,452 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Fortera"  was disconnected
+[ 00:45:11,454 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:11,810 ] Disconnected from gameserver
+[ 00:45:14,249 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:14,883 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Deehrock" )
+[ 00:45:14,884 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"
+[ 00:45:15,053 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"
+[ 00:45:15,636 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:15,765 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera"
+[ 00:45:15,936 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera" established
+[ 00:45:18,553 ] BattlEye: "Server computed GUID: c24b475effdd1c9911a5ee2faaf166f4"
+[ 00:45:19,152 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"  was disconnected
+[ 00:45:19,153 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera"  was disconnected
+[ 00:45:19,154 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:19,434 ] Disconnected from gameserver
+[ 00:45:22,109 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:22,640 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Lameqque" )
+[ 00:45:22,641 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"
+[ 00:45:22,904 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"
+[ 00:45:23,436 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:23,646 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera"
+[ 00:45:23,821 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera" established
+[ 00:45:27,054 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Mortera"  was disconnected
+[ 00:45:27,154 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Mortera"  was disconnected
+[ 00:45:27,155 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:27,428 ] Disconnected from gameserver
+[ 00:45:29,733 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:30,207 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Next Paladizin" )
+[ 00:45:30,208 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:30,473 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:31,047 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:31,206 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 00:45:31,380 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 00:45:33,997 ] BattlEye: "Server computed GUID: 74adc68b4c64ade95221354acb34e228"
+[ 00:45:35,882 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:35,947 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:35,949 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:36,239 ] Disconnected from gameserver
+[ 00:45:37,726 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:38,289 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Next Paladizin" )
+[ 00:45:38,289 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:38,465 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:39,048 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:39,141 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 00:45:39,400 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 00:45:41,988 ] BattlEye: "Server computed GUID: 74adc68b4c64ade95221354acb34e228"
+[ 00:45:42,874 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:42,938 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:42,941 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:43,216 ] Disconnected from gameserver
+[ 00:45:52,679 ] BattlEye: "Initialized (v1.243)"
+[ 00:45:53,170 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Next Paladizin" )
+[ 00:45:53,170 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:53,406 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:45:54,007 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:45:54,079 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 00:45:54,274 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 00:45:56,956 ] BattlEye: "Server computed GUID: 74adc68b4c64ade95221354acb34e228"
+[ 00:45:57,956 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:57,956 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:45:57,958 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:45:58,238 ] Disconnected from gameserver
+[ 00:46:01,448 ] BattlEye: "Initialized (v1.243)"
+[ 00:46:01,958 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-br.ciproxy.com:7171" )  requested (Charakter "Rawkeri" )
+[ 00:46:01,959 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Relembra"
+[ 00:46:02,090 ] Connected to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Relembra"
+[ 00:46:02,647 ] Request connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Relembra"
+[ 00:46:02,740 ] Backup connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Relembra" established
+[ 00:46:02,774 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:46:05,723 ] BattlEye: "Server computed GUID: c3f1f07e9db5d24c59ad14058c842b18"
+[ 00:46:06,028 ] Connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Relembra"  was disconnected
+[ 00:46:06,029 ] Connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Relembra"  was disconnected
+[ 00:46:06,030 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:06,314 ] Disconnected from gameserver
+[ 00:46:08,970 ] BattlEye: "Initialized (v1.243)"
+[ 00:46:09,571 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-br.ciproxy.com:7171" )  requested (Charakter "Rikkezor" )
+[ 00:46:09,571 ] Request connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Serdebra"
+[ 00:46:09,645 ] Connected to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Serdebra"
+[ 00:46:10,181 ] Request connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Serdebra"
+[ 00:46:10,229 ] Backup connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Serdebra" established
+[ 00:46:10,362 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:46:14,295 ] BattlEye: "Server computed GUID: ee733a8209ca41bfab83836fdedec26c"
+[ 00:46:16,530 ] Connection to gameserver  "tcp://tibia-pool-br.ciproxy.com:7171" "Serdebra"  was disconnected
+[ 00:46:16,530 ] Connection to gameserver  "tcp://tibia-ip-br.ciproxy.com:7171" "Serdebra"  was disconnected
+[ 00:46:16,532 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:16,820 ] Disconnected from gameserver
+[ 00:46:18,790 ] BattlEye: "Initialized (v1.243)"
+[ 00:46:19,257 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Shanyazzera" )
+[ 00:46:19,257 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Justera"
+[ 00:46:19,429 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Justera"
+[ 00:46:20,124 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Justera"
+[ 00:46:20,136 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:46:20,316 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Justera" established
+[ 00:46:23,383 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Justera"  was disconnected
+[ 00:46:23,482 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Justera"  was disconnected
+[ 00:46:23,484 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:23,771 ] Disconnected from gameserver
+[ 00:46:25,777 ] BattlEye: "Initialized (v1.243)"
+[ 00:46:26,298 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Zion Winter" )
+[ 00:46:26,298 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:46:26,467 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:46:27,101 ] Didn't send news query with params ( 0 0 ) (URL: QUrl("https://secure.tibia.com/services/clientservices.php") ) due to too many retries.
+[ 00:46:27,131 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 00:46:27,305 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 00:46:30,040 ] BattlEye: "Server computed GUID: 8d1bd393b0c96cbfd6f9b2a277f72b82"
+[ 00:46:30,923 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:46:30,923 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:46:30,925 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:46:31,241 ] Disconnected from gameserver
+[ 00:47:07,759 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:47:10,019 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:47:10,833 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:47:12,366 ] BattlEye: "Initialized (v1.243)"
+[ 00:47:12,868 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Ro Ni Nho" )
+[ 00:47:12,868 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:47:13,109 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 00:47:13,730 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:47:14,230 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 00:47:14,428 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 00:47:17,645 ] BattlEye: "Server computed GUID: 03223f541d069dc50e352e5aac09b76a"
+[ 00:54:30,951 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:54:30,952 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 00:54:30,955 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 00:54:31,258 ] Disconnected from gameserver
+[ 00:54:32,110 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:06:34,373 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:06:40,473 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:06:41,011 ] Asset loading complete
+[ 12:06:53,904 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:01,767 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:05,603 ] BattlEye: "Initialized (v1.243)"
+[ 12:07:06,217 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 12:07:06,217 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:07:06,466 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:07:06,850 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:07,112 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 12:07:07,333 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 12:07:08,706 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:11,787 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 12:07:55,108 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,128 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,145 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,165 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,175 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,187 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,297 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,319 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,354 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,364 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,397 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,404 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,461 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:07:55,474 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:29:27,061 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 12:29:27,061 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 12:29:27,082 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:29:27,220 ] Disconnected from gameserver
+[ 12:29:27,891 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:29:50,944 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:08,044 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:09,659 ] BattlEye: "Initialized (v1.243)"
+[ 12:30:09,894 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Fenyx Opache" )
+[ 12:30:09,894 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:30:10,845 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:11,911 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:13,161 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:30:23,015 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 12:30:23,026 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:23,026 ] Disconnected from gameserver
+[ 12:30:23,254 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:28,519 ] BattlEye: "Initialized (v1.243)"
+[ 12:30:28,766 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Fenyx Opache" )
+[ 12:30:28,766 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:30:28,932 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:30:29,570 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 12:30:29,703 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:30:29,770 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 12:30:33,687 ] BattlEye: "Server computed GUID: 885c9cc66502a72d40f3a3d938fb3435"
+[ 12:43:14,021 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 12:43:14,071 ] Connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 12:43:14,072 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:14,203 ] Disconnected from gameserver
+[ 12:43:14,763 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:19,872 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:25,256 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:27,194 ] BattlEye: "Initialized (v1.243)"
+[ 12:43:27,453 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171"  (unprotected:  "tcp://tibia-pool-us.ciproxy.com:7171" )  requested (Charakter "Death Onyx" )
+[ 12:43:27,453 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:43:27,655 ] Connected to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 12:43:28,317 ] Request connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera"
+[ 12:43:28,389 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:28,505 ] Backup connection to gameserver  "tcp://tibia-pool-us.ciproxy.com:7171" "Thera" established
+[ 12:43:29,457 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 12:43:31,340 ] BattlEye: "Server computed GUID: 514261c07cada6081af788e09734d200"
+[ 13:34:42,700 ] "handleCreatureMarksMessage: no creature with id 1073862473 found"
+[ 13:34:42,700 ] "updateOrCreateCreatureFromProtobuf: no creature with id 1073862473 found"
+[ 13:37:02,826 ] Connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"  was disconnected
+[ 13:37:03,881 ] Request connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera"
+[ 13:37:04,361 ] Backup connection to gameserver  "tcp://tibia-ip-us.ciproxy.com:7171" "Thera" established
+[ 13:38:01,672 ] QObject::connect: Cannot connect (null)::stateChanged(QNetworkSession::State) to QNetworkReplyHttpImpl::_q_networkSessionStateChanged(QNetworkSession::State)
+[ 13:38:06,338 ] Asset loading complete
